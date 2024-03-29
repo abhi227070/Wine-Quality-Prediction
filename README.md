@@ -87,8 +87,8 @@ This project utilizes machine learning algorithms for wine quality prediction an
 
 ## Screenshots
 
-![Screenshot](screenshot/screenshot1.png)
-![Screenshot](screenshot/screenshot2.png)
+![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/screenshot2.png)
 
 ## License
 
