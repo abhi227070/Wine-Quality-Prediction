@@ -4,10 +4,10 @@
 1. [Project Overview](#project-overview)
 2. [Use Cases](#use-cases)
 3. [Running the Project](#running-the-project)
-4. [Streamlit Code](#streamlit-code)
-5. [Technologies Used](#technologies-used)
-6. [Acknowledgements](#acknowledgements)
-7. [Screenshots](#screenshots)
+4. [Technologies Used](#technologies-used)
+5. [Streamlit Code](#streamlit-code)
+6. [Screenshots](#screenshots)
+7. [Acknowledgements](#acknowledgements)
 8. [License](#license)
 
 ## Project Overview
@@ -31,6 +31,12 @@ To run the project locally:
 3. Install the required dependencies by running `pip install -r requirements.txt`.
 4. Run the application using Streamlit by executing `streamlit run app.py`.
 5. Access the application in your web browser at `http://localhost:8501`.
+
+## Technologies Used
+
+1. Python
+2. Machine Learning (scikit-learn)
+3. Streamlit
 
 ## Streamlit Code
 
@@ -75,20 +81,15 @@ if st.button("Predict"):
     else:
         st.success("Wine quality is not good.")
 ```
-## Technologies Used
-
-1. Python
-2. Machine Learning (scikit-learn)
-3. Streamlit
-
-## Acknowledgements
-
-This project utilizes machine learning algorithms for wine quality prediction and Streamlit for building the user interface. It aims to provide a convenient tool for evaluating wine quality based on its characteristics.
 
 ## Screenshots
 
 ![Screenshot](screenshots/screenshot1.png)
 ![Screenshot](screenshots/screenshot2.png)
+
+## Acknowledgements
+
+This project utilizes machine learning algorithms for wine quality prediction and Streamlit for building the user interface. It aims to provide a convenient tool for evaluating wine quality based on its characteristics.
 
 ## License
 
