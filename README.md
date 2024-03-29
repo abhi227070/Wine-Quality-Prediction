@@ -77,9 +77,9 @@ if st.button("Predict"):
 ```
 ## Technologies Used
 
-Python
-Machine Learning (scikit-learn)
-Streamlit
+1.Python
+2.Machine Learning (scikit-learn)
+3.Streamlit
 
 ## Acknowledgements
 
