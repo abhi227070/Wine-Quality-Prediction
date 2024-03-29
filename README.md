@@ -87,8 +87,10 @@ This project utilizes machine learning algorithms for wine quality prediction an
 
 ## Screenshots
 
-
+![Screenshot](screenshot/screenshot1.png)
+![Screenshot](screenshot/screenshot2.png)
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE] file for details.
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
+
