@@ -82,6 +82,7 @@ if st.button("Predict"):
         st.success("Wine quality is not good.")
 ```
 
+
 ## Screenshots
 
 ![Screenshot](screenshots/screenshot1.png)
